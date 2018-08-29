@@ -1,6 +1,3 @@
-# CIFAR-10_CNN
-[![N|Solid](https://secure.gravatar.com/avatar/7273c58dc017eec83667b50742ff6368?s=80)](https://www.linkedin.com/in/amitasviper/)
-
 CIFAR-10 Convolutional Neural Network implementation using TensorFlow.
 
 

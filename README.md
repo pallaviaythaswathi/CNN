@@ -17,7 +17,7 @@ This implementation contains 5 convolutional layers having max-pooling and dropo
 ## Try this on your machine
 ### Clone this repository
 ```sh
-git clone https://github.com/amitasviper/CIFAR-10_CNN.git
+git clone https://github.com/pallaviaythaswathi/CIFAR-10_CNN.git
 cd CIFAR-10_CNN
 ```
 
